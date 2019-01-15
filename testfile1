@@ -1,4 +1,3 @@
 hostname
 date
 uname -r
-uname -a
