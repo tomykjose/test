@@ -1,3 +1,4 @@
 hostname
 date
 uname -r
+cat /etc/*release
